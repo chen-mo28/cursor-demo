@@ -1,1 +1,1 @@
-print("Hello Cursor + Git!")
+print("Hello Cursor +love Git!")
